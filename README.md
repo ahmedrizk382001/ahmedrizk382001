@@ -10,7 +10,8 @@
 📫 How to reach me ahmed.mostafa.rezk2001@gmail.com
 
 Connect with me:
-https://www.linkedin.com/in/ahmed-mostafa-aa8099296/ https://www.facebook.com/mostafa.m.rezk/ https://www.instagram.com/ahmed_m_rezk/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-mostafa-aa8099296)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://www.facebook.com/mostafa.m.rezk)
 
 Languages and Tools:
 Dart c cplusplus git html5
